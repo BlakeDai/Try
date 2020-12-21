@@ -1,0 +1,10 @@
+﻿  try.c
+d:\nus\courses\ucb_cs61c\test\lab1\lab1\try.c(34): warning C4013: “malloc”未定义；假设外部返回 int
+d:\nus\courses\ucb_cs61c\test\lab1\lab1\try.c(36): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\nus\courses\ucb_cs61c\test\lab1\lab1\try.c(37): warning C4477: “printf”: 格式字符串“%i”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+d:\nus\courses\ucb_cs61c\test\lab1\lab1\try.c(38): warning C4013: “free”未定义；假设外部返回 int
+d:\nus\courses\ucb_cs61c\test\lab1\lab1\try.c(34): warning C4047: “初始化”:“int *”与“int”的间接级别不同
+d:\nus\courses\ucb_cs61c\test\lab1\lab1\try.c(33): warning C4101: “j”: 未引用的局部变量
+d:\nus\courses\ucb_cs61c\test\lab1\lab1\try.c(33): warning C4101: “i”: 未引用的局部变量
+d:\nus\courses\ucb_cs61c\test\lab1\lab1\try.c(42): warning C4047: “return”:“int *”与“int”的间接级别不同
+  lab1.vcxproj -> D:\NUS\Courses\UCB_CS61C\test\lab1\Debug\lab1.exe
